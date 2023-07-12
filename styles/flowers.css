@@ -166,3 +166,16 @@ footer{
 .contact .input-text textarea{
     border-radius: 5px;
 }
+.section5-text{
+    text-align: center;
+}
+.section5-head{
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+.section5-button{
+    display: flex;
+    padding-left: 587px;
+    padding-right: 187px;
+}
