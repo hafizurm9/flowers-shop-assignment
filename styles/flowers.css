@@ -176,6 +176,22 @@ footer{
 }
 .section5-button{
     display: flex;
-    padding-left: 587px;
-    padding-right: 187px;
+    padding-left: 287px;
+    padding-right: 287px;
+}
+.button-design{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #fff;
+}
+.section5-button-design{
+    width: 50px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+}
+.subscribe1{
+    width: 88px;
+    height: 27.429px;
 }
